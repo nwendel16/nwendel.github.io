@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+#About Me
+  
+  Hi! My name is Nick and I am a student in the IT-75 course at Sierra College. My college experience this year is just getting started but is very exciting so far. However, it is not new to me. I went to college right out of high school in 2009 and attended Fresno State University for three years and then went to Fresno Community College for a year and a half. While at Fresno State I never really settled on a degree path and ended up dropping out and started going to Fresno City to pursue a Fire Science degree. While at Fresno City I completed two fire science courses and then was accepted in to the fire academy. The fire academy was 8 months long and I loved every minute of it. Being a fire fighter had been my dream for as long as I can remember. After the academy I fell into a rut of working dead-end jobs and firefighting moved to the back burner. In 2018 I was offered a job with Cal Fire, I was finally given an opportunity to achieve my dream of becoming a fire fighter! I was hired on in August and worked with them through December. It was a very busy couple of months, and I was even called out to the Camp Fire in Paradise for two weeks. While working for Cal Fire I realized that being a fire fighter didn't make me as happy as I always thought it would. I decided to take a step back and return to school and finish a degree this time. 
 
-You can use the [editor on GitHub](https://github.com/nwendel16/nwendel_portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nwendel16/nwendel_portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ * My computer experience so far is more of that of an end user, but I have built 2 different gaming PCs
+ * I am taking this class because it is one of the first steps towards an Information Technology degree at Sierra College, but I also want     to learn a little about each aspect of the degree to try and find what really peaks my interest
+ * I think the only thing that would prevent me from doing well in this class would be a lack of focus, and maybe a lack of creativity
+ * The most important things in my life are my family, girlfriend, and dogs
+ * Something interesting about myself... In middle school I was Person of the Week in my hometown newspaper
+ 
+ Follow me on **Twitch**! :trident: https://www.twitch.tv/neptne_ :trident:
