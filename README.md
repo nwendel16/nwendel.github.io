@@ -10,12 +10,12 @@
 
 ## Projects
 
+1. [Fundamentals of Programming in Python](https://nwendel16.github.io/Fundamentals-of-Programming-in-Python/)
+2. [Internet of Things (Iot)](https://nwendel16.github.io/Internet-of-Things/)
+3. [Secure Scripting](https://nwendel16.github.io/Secure-Scripting/)
+4. [Data Analytics](https://nwendel16.github.io/Data-Analytics/)
+5. [Python Hackathon](https://nwendel16.github.io/Python-Hackathon/)
 
+### Social
 
-
-
-
-
-
-
-Follow me on **Twitch**! :trident: https://www.twitch.tv/neptne_ :trident:
+Follow me on **Twitch**! :trident: [NEPTNE_](https://www.twitch.tv/neptne_) :trident:
