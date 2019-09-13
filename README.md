@@ -7,5 +7,15 @@
  * I think the only thing that would prevent me from doing well in this class would be a lack of focus, and maybe a lack of creativity
  * The most important things in my life are my family, girlfriend, and dogs
  * Something interesting about myself... In middle school I was Person of the Week in my hometown newspaper
- 
- Follow me on **Twitch**! :trident: https://www.twitch.tv/neptne_ :trident:
+
+## Projects
+
+
+
+
+
+
+
+
+
+Follow me on **Twitch**! :trident: https://www.twitch.tv/neptne_ :trident:
