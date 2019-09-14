@@ -6,7 +6,7 @@
 <img src="campfire.jpg" align="left" height="200" width="150"> 
 
  * My computer experience so far is more of that of an end user, but I have built 2 different gaming PCs
- * I am taking this class because it is one of the first steps towards an Information Technology degree at Sierra College, but I also want     to learn a little about each aspect of the degree to try and find what really peaks my interest
+ * I am taking this class because it is one of the first steps towards an Information Technology degree at Sierra College, but I also      want to learn a little about each aspect of the degree to try and find what really peaks my interest
  * I think the only thing that would prevent me from doing well in this class would be a lack of focus, and maybe a lack of creativity
  * The most important things in my life are my family, girlfriend, and dogs
  * Something interesting about myself... In middle school I was Person of the Week in my hometown newspaper
