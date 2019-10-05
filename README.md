@@ -29,7 +29,7 @@
 
 
 
-Follow me on **Twitch**! &#1F531; [NEPTNE_](https://www.twitch.tv/neptne_) &#1F531;
+Follow me on **Twitch**! :trident: [NEPTNE_](https://www.twitch.tv/neptne_) :trident:
 
 
 
